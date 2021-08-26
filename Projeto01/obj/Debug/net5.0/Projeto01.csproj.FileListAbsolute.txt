@@ -1,0 +1,16 @@
+C:\ProjetosDio\Projeto01\bin\Debug\net5.0\Projeto01.exe
+C:\ProjetosDio\Projeto01\bin\Debug\net5.0\Projeto01.deps.json
+C:\ProjetosDio\Projeto01\bin\Debug\net5.0\Projeto01.runtimeconfig.json
+C:\ProjetosDio\Projeto01\bin\Debug\net5.0\Projeto01.runtimeconfig.dev.json
+C:\ProjetosDio\Projeto01\bin\Debug\net5.0\Projeto01.dll
+C:\ProjetosDio\Projeto01\bin\Debug\net5.0\ref\Projeto01.dll
+C:\ProjetosDio\Projeto01\bin\Debug\net5.0\Projeto01.pdb
+C:\ProjetosDio\Projeto01\obj\Debug\net5.0\Projeto01.csproj.AssemblyReference.cache
+C:\ProjetosDio\Projeto01\obj\Debug\net5.0\Projeto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDio\Projeto01\obj\Debug\net5.0\Projeto01.AssemblyInfoInputs.cache
+C:\ProjetosDio\Projeto01\obj\Debug\net5.0\Projeto01.AssemblyInfo.cs
+C:\ProjetosDio\Projeto01\obj\Debug\net5.0\Projeto01.csproj.CoreCompileInputs.cache
+C:\ProjetosDio\Projeto01\obj\Debug\net5.0\Projeto01.dll
+C:\ProjetosDio\Projeto01\obj\Debug\net5.0\ref\Projeto01.dll
+C:\ProjetosDio\Projeto01\obj\Debug\net5.0\Projeto01.pdb
+C:\ProjetosDio\Projeto01\obj\Debug\net5.0\Projeto01.genruntimeconfig.cache
